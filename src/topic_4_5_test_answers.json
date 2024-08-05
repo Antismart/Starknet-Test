@@ -3,7 +3,28 @@
     "question_type": "sc",
     "answer": null,
     "options": [
-      1
+      0
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      0
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      3
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      2
     ]
   },
   {
@@ -17,7 +38,14 @@
     "question_type": "sc",
     "answer": null,
     "options": [
-      1
+      2
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      3
     ]
   },
   {
@@ -31,45 +59,17 @@
     "question_type": "sc",
     "answer": null,
     "options": [
-      1
-    ]
-  },
-  {
-    "question_type": "sc",
-    "answer": null,
-    "options": [
-      1
-    ]
-  },
-  {
-    "question_type": "sc",
-    "answer": null,
-    "options": [
-      1
-    ]
-  },
-  {
-    "question_type": "sc",
-    "answer": null,
-    "options": [
-      1
-    ]
-  },
-  {
-    "question_type": "sc",
-    "answer": null,
-    "options": [
-      1
+      0
     ]
   },
   {
     "question_type": "oe",
-    "answer": "2",
+    "answer": "Vercel: When deploying to Vercel, the DApp is hosted on a centralized server controlled by Vercel. This means Vercel has the power to manage, modify, or even take down the application if it violates their policies. Users have to trust Vercel to maintain uptime and security.",
     "options": null
   },
   {
     "question_type": "oe",
-    "answer": "2",
+    "answer": "IPFS (InterPlanetary File System): On the other hand, IPFS is a decentralized network where files are distributed across multiple nodes. Once a DApp is uploaded to IPFS, it becomes immutable and is not controlled by a single entity. No single party can take down the DApp, ensuring higher resilience and censorship resistance.https://stark-raise.vercel.app/",
     "options": null
   }
 ]
